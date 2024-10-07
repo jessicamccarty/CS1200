@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week1ParsingConsoleInput", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week1RandomType", "Week1RandomType\Week1RandomType.csproj", "{6C23FF5D-30EE-408F-AA65-E69D52C1C839}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week1Vowel", "Week1Vowel\Week1Vowel.csproj", "{D75B79AC-D347-4B1C-B381-1D0D9E89EA9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatusCodes", "StatusCodes\StatusCodes.csproj", "{2CFA75D9-60E3-4F96-BAD3-B3912D4C9D5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{6C23FF5D-30EE-408F-AA65-E69D52C1C839}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C23FF5D-30EE-408F-AA65-E69D52C1C839}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C23FF5D-30EE-408F-AA65-E69D52C1C839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D75B79AC-D347-4B1C-B381-1D0D9E89EA9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75B79AC-D347-4B1C-B381-1D0D9E89EA9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75B79AC-D347-4B1C-B381-1D0D9E89EA9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75B79AC-D347-4B1C-B381-1D0D9E89EA9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CFA75D9-60E3-4F96-BAD3-B3912D4C9D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CFA75D9-60E3-4F96-BAD3-B3912D4C9D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CFA75D9-60E3-4F96-BAD3-B3912D4C9D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CFA75D9-60E3-4F96-BAD3-B3912D4C9D5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

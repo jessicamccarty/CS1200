@@ -1,0 +1,15 @@
+D:\Coding\CS1200\CS1200\StatusCodes\bin\Debug\net8.0\StatusCodes.exe
+D:\Coding\CS1200\CS1200\StatusCodes\bin\Debug\net8.0\StatusCodes.deps.json
+D:\Coding\CS1200\CS1200\StatusCodes\bin\Debug\net8.0\StatusCodes.runtimeconfig.json
+D:\Coding\CS1200\CS1200\StatusCodes\bin\Debug\net8.0\StatusCodes.dll
+D:\Coding\CS1200\CS1200\StatusCodes\bin\Debug\net8.0\StatusCodes.pdb
+D:\Coding\CS1200\CS1200\StatusCodes\obj\Debug\net8.0\StatusCodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\CS1200\CS1200\StatusCodes\obj\Debug\net8.0\StatusCodes.AssemblyInfoInputs.cache
+D:\Coding\CS1200\CS1200\StatusCodes\obj\Debug\net8.0\StatusCodes.AssemblyInfo.cs
+D:\Coding\CS1200\CS1200\StatusCodes\obj\Debug\net8.0\StatusCodes.csproj.CoreCompileInputs.cache
+D:\Coding\CS1200\CS1200\StatusCodes\obj\Debug\net8.0\StatusCodes.sourcelink.json
+D:\Coding\CS1200\CS1200\StatusCodes\obj\Debug\net8.0\StatusCodes.dll
+D:\Coding\CS1200\CS1200\StatusCodes\obj\Debug\net8.0\refint\StatusCodes.dll
+D:\Coding\CS1200\CS1200\StatusCodes\obj\Debug\net8.0\StatusCodes.pdb
+D:\Coding\CS1200\CS1200\StatusCodes\obj\Debug\net8.0\StatusCodes.genruntimeconfig.cache
+D:\Coding\CS1200\CS1200\StatusCodes\obj\Debug\net8.0\ref\StatusCodes.dll
