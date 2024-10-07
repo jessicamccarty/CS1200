@@ -1,0 +1,15 @@
+D:\Coding\CS1200\CS1200\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+D:\Coding\CS1200\CS1200\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+D:\Coding\CS1200\CS1200\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+D:\Coding\CS1200\CS1200\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+D:\Coding\CS1200\CS1200\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+D:\Coding\CS1200\CS1200\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\CS1200\CS1200\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Coding\CS1200\CS1200\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+D:\Coding\CS1200\CS1200\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Coding\CS1200\CS1200\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
+D:\Coding\CS1200\CS1200\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+D:\Coding\CS1200\CS1200\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+D:\Coding\CS1200\CS1200\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+D:\Coding\CS1200\CS1200\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+D:\Coding\CS1200\CS1200\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
