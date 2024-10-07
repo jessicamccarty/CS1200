@@ -1,0 +1,15 @@
+D:\Coding\CS1200\CS1200\Week1ConsoleType\bin\Debug\net8.0\Week1ConsoleType.exe
+D:\Coding\CS1200\CS1200\Week1ConsoleType\bin\Debug\net8.0\Week1ConsoleType.deps.json
+D:\Coding\CS1200\CS1200\Week1ConsoleType\bin\Debug\net8.0\Week1ConsoleType.runtimeconfig.json
+D:\Coding\CS1200\CS1200\Week1ConsoleType\bin\Debug\net8.0\Week1ConsoleType.dll
+D:\Coding\CS1200\CS1200\Week1ConsoleType\bin\Debug\net8.0\Week1ConsoleType.pdb
+D:\Coding\CS1200\CS1200\Week1ConsoleType\obj\Debug\net8.0\Week1ConsoleType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\CS1200\CS1200\Week1ConsoleType\obj\Debug\net8.0\Week1ConsoleType.AssemblyInfoInputs.cache
+D:\Coding\CS1200\CS1200\Week1ConsoleType\obj\Debug\net8.0\Week1ConsoleType.AssemblyInfo.cs
+D:\Coding\CS1200\CS1200\Week1ConsoleType\obj\Debug\net8.0\Week1ConsoleType.csproj.CoreCompileInputs.cache
+D:\Coding\CS1200\CS1200\Week1ConsoleType\obj\Debug\net8.0\Week1ConsoleType.sourcelink.json
+D:\Coding\CS1200\CS1200\Week1ConsoleType\obj\Debug\net8.0\Week1ConsoleType.dll
+D:\Coding\CS1200\CS1200\Week1ConsoleType\obj\Debug\net8.0\refint\Week1ConsoleType.dll
+D:\Coding\CS1200\CS1200\Week1ConsoleType\obj\Debug\net8.0\Week1ConsoleType.pdb
+D:\Coding\CS1200\CS1200\Week1ConsoleType\obj\Debug\net8.0\Week1ConsoleType.genruntimeconfig.cache
+D:\Coding\CS1200\CS1200\Week1ConsoleType\obj\Debug\net8.0\ref\Week1ConsoleType.dll
