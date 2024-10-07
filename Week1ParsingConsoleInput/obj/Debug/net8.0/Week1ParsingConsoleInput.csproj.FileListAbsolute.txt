@@ -1,0 +1,15 @@
+D:\Coding\CS1200\CS1200\Week1ParsingConsoleInput\bin\Debug\net8.0\Week1ParsingConsoleInput.exe
+D:\Coding\CS1200\CS1200\Week1ParsingConsoleInput\bin\Debug\net8.0\Week1ParsingConsoleInput.deps.json
+D:\Coding\CS1200\CS1200\Week1ParsingConsoleInput\bin\Debug\net8.0\Week1ParsingConsoleInput.runtimeconfig.json
+D:\Coding\CS1200\CS1200\Week1ParsingConsoleInput\bin\Debug\net8.0\Week1ParsingConsoleInput.dll
+D:\Coding\CS1200\CS1200\Week1ParsingConsoleInput\bin\Debug\net8.0\Week1ParsingConsoleInput.pdb
+D:\Coding\CS1200\CS1200\Week1ParsingConsoleInput\obj\Debug\net8.0\Week1ParsingConsoleInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\CS1200\CS1200\Week1ParsingConsoleInput\obj\Debug\net8.0\Week1ParsingConsoleInput.AssemblyInfoInputs.cache
+D:\Coding\CS1200\CS1200\Week1ParsingConsoleInput\obj\Debug\net8.0\Week1ParsingConsoleInput.AssemblyInfo.cs
+D:\Coding\CS1200\CS1200\Week1ParsingConsoleInput\obj\Debug\net8.0\Week1ParsingConsoleInput.csproj.CoreCompileInputs.cache
+D:\Coding\CS1200\CS1200\Week1ParsingConsoleInput\obj\Debug\net8.0\Week1ParsingConsoleInput.sourcelink.json
+D:\Coding\CS1200\CS1200\Week1ParsingConsoleInput\obj\Debug\net8.0\Week1ParsingConsoleInput.dll
+D:\Coding\CS1200\CS1200\Week1ParsingConsoleInput\obj\Debug\net8.0\refint\Week1ParsingConsoleInput.dll
+D:\Coding\CS1200\CS1200\Week1ParsingConsoleInput\obj\Debug\net8.0\Week1ParsingConsoleInput.pdb
+D:\Coding\CS1200\CS1200\Week1ParsingConsoleInput\obj\Debug\net8.0\Week1ParsingConsoleInput.genruntimeconfig.cache
+D:\Coding\CS1200\CS1200\Week1ParsingConsoleInput\obj\Debug\net8.0\ref\Week1ParsingConsoleInput.dll
