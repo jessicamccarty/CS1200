@@ -1,0 +1,15 @@
+D:\Coding\CS1200\CS1200\Week1RandomType\bin\Debug\net8.0\Week1RandomType.exe
+D:\Coding\CS1200\CS1200\Week1RandomType\bin\Debug\net8.0\Week1RandomType.deps.json
+D:\Coding\CS1200\CS1200\Week1RandomType\bin\Debug\net8.0\Week1RandomType.runtimeconfig.json
+D:\Coding\CS1200\CS1200\Week1RandomType\bin\Debug\net8.0\Week1RandomType.dll
+D:\Coding\CS1200\CS1200\Week1RandomType\bin\Debug\net8.0\Week1RandomType.pdb
+D:\Coding\CS1200\CS1200\Week1RandomType\obj\Debug\net8.0\Week1RandomType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\CS1200\CS1200\Week1RandomType\obj\Debug\net8.0\Week1RandomType.AssemblyInfoInputs.cache
+D:\Coding\CS1200\CS1200\Week1RandomType\obj\Debug\net8.0\Week1RandomType.AssemblyInfo.cs
+D:\Coding\CS1200\CS1200\Week1RandomType\obj\Debug\net8.0\Week1RandomType.csproj.CoreCompileInputs.cache
+D:\Coding\CS1200\CS1200\Week1RandomType\obj\Debug\net8.0\Week1RandomType.sourcelink.json
+D:\Coding\CS1200\CS1200\Week1RandomType\obj\Debug\net8.0\Week1RandomType.dll
+D:\Coding\CS1200\CS1200\Week1RandomType\obj\Debug\net8.0\refint\Week1RandomType.dll
+D:\Coding\CS1200\CS1200\Week1RandomType\obj\Debug\net8.0\Week1RandomType.pdb
+D:\Coding\CS1200\CS1200\Week1RandomType\obj\Debug\net8.0\Week1RandomType.genruntimeconfig.cache
+D:\Coding\CS1200\CS1200\Week1RandomType\obj\Debug\net8.0\ref\Week1RandomType.dll

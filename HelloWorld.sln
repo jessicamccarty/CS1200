@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week1ConsoleType", "Week1Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week1ParsingConsoleInput", "Week1ParsingConsoleInput\Week1ParsingConsoleInput.csproj", "{912CEA84-6866-4552-AE75-2D3C966B81C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week1RandomType", "Week1RandomType\Week1RandomType.csproj", "{6C23FF5D-30EE-408F-AA65-E69D52C1C839}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{912CEA84-6866-4552-AE75-2D3C966B81C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{912CEA84-6866-4552-AE75-2D3C966B81C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{912CEA84-6866-4552-AE75-2D3C966B81C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C23FF5D-30EE-408F-AA65-E69D52C1C839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C23FF5D-30EE-408F-AA65-E69D52C1C839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C23FF5D-30EE-408F-AA65-E69D52C1C839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C23FF5D-30EE-408F-AA65-E69D52C1C839}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
