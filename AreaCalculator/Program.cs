@@ -17,3 +17,12 @@
 // For triangle, user input for height
 
 // For circle, user input for radius
+
+// Function to find area of a rectangle and output
+// Length x Width
+
+// Function to find area of a triangle and output
+// 1/2 x Base x Height
+
+// Function to find area of a circle and output
+// pi x Radius Squared
