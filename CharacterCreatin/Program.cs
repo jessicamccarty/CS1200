@@ -1,12 +1,17 @@
-﻿// Class: Soldier: 100 HP, 100 AR, 100 STR, Weapon, Ablity: Shoot 
+﻿// Assignment: Character Creation
+// Authors: Jessica McCarty, Austin Nance, Terrell Smith
+// Date: October 8, 2024
+
+// Class: Soldier: 100 HP, 100 AR, 100 STR, Weapon, Ablity: Shoot 
 // Class: Pilot: 50 HP, 50 AR, 50 STR, Ship, Ability: Fly
 // Class: Engineer: 50 HP, 75 AR, 50 STR, Tablet, Ability: Decryption
 
-// Input for Character Name
+
 using System.Collections;
 
+// Input for Character Name
 Console.WriteLine("Please enter your character's name: ");
-char charName = Console.ReadLine();
+char charName = Convert.ToChar(Console.ReadLine());
 
 // Menu for Class choice
 Console.WriteLine("Please choose your class: ");
@@ -16,7 +21,7 @@ Console.WriteLine("3. Engineer");
 int charClass = Convert.ToInt32(Console.ReadLine());
 
 // Switch to read character class choice
-Switch (charClass) {
+switch (charClass) {
     case '1':
         Console.Write("You have chosen the Soldier class.");
         // Initialize Soldier class attributes, inventory, and ability.
@@ -36,11 +41,11 @@ Switch (charClass) {
 
 // Input for Home Planet
 Console.WriteLine("Please enter your character's home planet: ");
-char charPlanet = Console.ReadLine():
+char charPlanet = Convert.ToChar(Console.ReadLine());
 
 // Menu for Faction Choice
 Console.WriteLine("Please choose the faction your character aligns with (light, dark): ");
-char charFaction = Console.ReadLine();
+char charFaction = Convert.ToChar(Console.ReadLine());
 
 // Input starting currency: 500 Lumees
 int Lumees = 500;
