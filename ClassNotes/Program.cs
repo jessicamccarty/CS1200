@@ -18,5 +18,8 @@ class Hello {
 }
 
 
+// Clean user input before using in code. 
+// Ex. Convert to uppercase or lowercase before switch statement.
+
 
 
