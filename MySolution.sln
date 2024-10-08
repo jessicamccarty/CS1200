@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesTaxCalculator", "Sales
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalculator", "AreaCalculator\AreaCalculator.csproj", "{4FBA7AAF-F25D-47D9-811E-6D2D1310E5FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassNotes", "ClassNotes\ClassNotes.csproj", "{56A5F294-3C5E-4A37-B255-0979E5345667}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{4FBA7AAF-F25D-47D9-811E-6D2D1310E5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FBA7AAF-F25D-47D9-811E-6D2D1310E5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FBA7AAF-F25D-47D9-811E-6D2D1310E5FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A5F294-3C5E-4A37-B255-0979E5345667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A5F294-3C5E-4A37-B255-0979E5345667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A5F294-3C5E-4A37-B255-0979E5345667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A5F294-3C5E-4A37-B255-0979E5345667}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
