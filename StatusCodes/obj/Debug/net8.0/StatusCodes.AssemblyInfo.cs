@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StatusCodes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a5aa3fbba2e7ae6589eae470bfdc0b70debc746")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afa1bf8cbd8b4178e243798b26bd02446e7f2257")]
 [assembly: System.Reflection.AssemblyProductAttribute("StatusCodes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StatusCodes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
