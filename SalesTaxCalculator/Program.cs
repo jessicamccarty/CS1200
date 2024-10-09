@@ -24,7 +24,7 @@ class SalesTaxCalculator {
         decimal totalPrice = purchasePrice + totalTax;
 
         // Output: For your $100 purchase, a 7.5% tax is $7.50 for a total of $107.50.
-        Console.Write($"For your ${purchasePrice:F2} purchase, a {taxRate}% tax is ${totalTax:F2} for a total of ${totalPrice:F2}.");
+        Console.WriteLine($"\nFor your ${purchasePrice:F2} purchase, a {taxRate}% tax is ${totalTax:F2} for a total of ${totalPrice:F2}.\n");
 
     return 0;
 
