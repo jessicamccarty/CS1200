@@ -5,20 +5,28 @@
 
 
 
+class SalesTaxCalculator {
 
-// Enter the purchase price
-Console.Write("Enter the purchase price: ");
-decimal purchasePrice = Convert.ToDecimal(Console.ReadLine());
+    static int Main(string[] args) {
 
-// Enter the tax rate
-Console.Write("Enter the tax rate: ");
-decimal taxRate = Convert.ToDecimal(Console.ReadLine());
+        // Enter the purchase price
+        Console.Write("Enter the purchase price: ");
+        decimal purchasePrice = Convert.ToDecimal(Console.ReadLine());
 
-// Determine tax
-decimal totalTax = purchasePrice * taxRate / 100;
+        // Enter the tax rate
+        Console.Write("Enter the tax rate: ");
+        decimal taxRate = Convert.ToDecimal(Console.ReadLine());
 
-// Determine total
-decimal totalPrice = purchasePrice + totalTax;
+        // Determine tax
+        decimal totalTax = purchasePrice * taxRate / 100;
 
-// Output: For your $100 purchase, a 7.5% tax is $7.50 for a total of $107.50.
-Console.Write($"For your ${purchasePrice:F2} purchase, a {taxRate}% tax is ${totalTax:F2} for a total of ${totalPrice:F2}.");
+        // Determine total
+        decimal totalPrice = purchasePrice + totalTax;
+
+        // Output: For your $100 purchase, a 7.5% tax is $7.50 for a total of $107.50.
+        Console.Write($"For your ${purchasePrice:F2} purchase, a {taxRate}% tax is ${totalTax:F2} for a total of ${totalPrice:F2}.");
+
+    return 0;
+
+    }
+}
