@@ -1,0 +1,15 @@
+D:\Coding\CS1200\CS1200\AreaCalculator\obj\Debug\net8.0\AreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\CS1200\CS1200\AreaCalculator\obj\Debug\net8.0\AreaCalculator.AssemblyInfoInputs.cache
+D:\Coding\CS1200\CS1200\AreaCalculator\obj\Debug\net8.0\AreaCalculator.AssemblyInfo.cs
+D:\Coding\CS1200\CS1200\AreaCalculator\obj\Debug\net8.0\AreaCalculator.csproj.CoreCompileInputs.cache
+D:\Coding\CS1200\CS1200\AreaCalculator\obj\Debug\net8.0\AreaCalculator.sourcelink.json
+D:\Coding\CS1200\CS1200\AreaCalculator\bin\Debug\net8.0\AreaCalculator.exe
+D:\Coding\CS1200\CS1200\AreaCalculator\bin\Debug\net8.0\AreaCalculator.deps.json
+D:\Coding\CS1200\CS1200\AreaCalculator\bin\Debug\net8.0\AreaCalculator.runtimeconfig.json
+D:\Coding\CS1200\CS1200\AreaCalculator\bin\Debug\net8.0\AreaCalculator.dll
+D:\Coding\CS1200\CS1200\AreaCalculator\bin\Debug\net8.0\AreaCalculator.pdb
+D:\Coding\CS1200\CS1200\AreaCalculator\obj\Debug\net8.0\AreaCalculator.dll
+D:\Coding\CS1200\CS1200\AreaCalculator\obj\Debug\net8.0\refint\AreaCalculator.dll
+D:\Coding\CS1200\CS1200\AreaCalculator\obj\Debug\net8.0\AreaCalculator.pdb
+D:\Coding\CS1200\CS1200\AreaCalculator\obj\Debug\net8.0\AreaCalculator.genruntimeconfig.cache
+D:\Coding\CS1200\CS1200\AreaCalculator\obj\Debug\net8.0\ref\AreaCalculator.dll
