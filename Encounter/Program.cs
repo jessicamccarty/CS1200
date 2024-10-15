@@ -8,7 +8,7 @@
         // Enemy Variables
         string[] enemyName = { "enemyOne", "enemyTwo", "enemyThree" };
         int[] enemyHP = { 30, 40, 50 };
-        Random random = new Random();
+        Random random = new Random(); // Initialize random function for enemy attack and defense
 
         // Enemy Encounter Loop
         for (int i = 0; i < enemyName.Length; i++)
