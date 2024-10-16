@@ -1,26 +1,4 @@
-﻿// // Get the starting values for rows and columns 
-// Console.WriteLine("Enter starting value for rows: ");
-// int firstRow = Convert.ToInt32(Console.ReadLine());
-
-// Console.WriteLine("Enter ending value for rows: ");
-// int lastRow = Convert.ToInt32(Console.ReadLine());
-
-// Console.WriteLine("Enter starting value for columns: ");
-// int firstCol = Convert.ToInt32(Console.ReadLine());
-
-// Console.WriteLine("Enter ending value for colums: ");
-// int lastCol = Convert.ToInt32(Console.ReadLine());
-
-
-
-// // for(int i=0; i<5; i++)
-// // {
-// //     for(int j=0; j<5; j++)
-// //     {
-// //         Console.Write($"({i},{j})");
-// //     }
-// //     Console.WriteLine();
-// // }
+﻿
 
 class Program
 {
