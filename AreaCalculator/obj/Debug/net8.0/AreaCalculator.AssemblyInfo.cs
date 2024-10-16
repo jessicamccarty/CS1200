@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AreaCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0812bce5a7d041eede3737e8bf196877bd8396d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bccad9bfefd44c3bacad717df6e63734a27d272")]
 [assembly: System.Reflection.AssemblyProductAttribute("AreaCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AreaCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
