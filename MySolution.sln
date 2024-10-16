@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encounter", "Encounter\Enco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextRPG", "TextRPG\TextRPG.csproj", "{4879BFA2-51BE-425E-BD34-2DF050370915}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTable", "MultiplicationTable\MultiplicationTable.csproj", "{E8F45A5C-CDF9-4ED7-B176-E006BEFDE318}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{4879BFA2-51BE-425E-BD34-2DF050370915}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4879BFA2-51BE-425E-BD34-2DF050370915}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4879BFA2-51BE-425E-BD34-2DF050370915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8F45A5C-CDF9-4ED7-B176-E006BEFDE318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8F45A5C-CDF9-4ED7-B176-E006BEFDE318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8F45A5C-CDF9-4ED7-B176-E006BEFDE318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8F45A5C-CDF9-4ED7-B176-E006BEFDE318}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
