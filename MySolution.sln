@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryParse", "TryParse\TryPar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakpointsAndDebugging", "BreakpointsAndDebugging\BreakpointsAndDebugging.csproj", "{F9BD58DC-8366-4F8D-BB8C-50934474CDA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppointmentTracker", "AppointmentTracker\AppointmentTracker.csproj", "{D6CE2E27-7C11-43F9-80B7-DB0845B40D57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -108,5 +110,9 @@ Global
 		{F9BD58DC-8366-4F8D-BB8C-50934474CDA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9BD58DC-8366-4F8D-BB8C-50934474CDA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9BD58DC-8366-4F8D-BB8C-50934474CDA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6CE2E27-7C11-43F9-80B7-DB0845B40D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6CE2E27-7C11-43F9-80B7-DB0845B40D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6CE2E27-7C11-43F9-80B7-DB0845B40D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6CE2E27-7C11-43F9-80B7-DB0845B40D57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
