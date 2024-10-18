@@ -1,0 +1,15 @@
+D:\Coding\CS1200\CS1200\BreakpointsAndDebugging\bin\Debug\net8.0\BreakpointsAndDebugging.exe
+D:\Coding\CS1200\CS1200\BreakpointsAndDebugging\bin\Debug\net8.0\BreakpointsAndDebugging.deps.json
+D:\Coding\CS1200\CS1200\BreakpointsAndDebugging\bin\Debug\net8.0\BreakpointsAndDebugging.runtimeconfig.json
+D:\Coding\CS1200\CS1200\BreakpointsAndDebugging\bin\Debug\net8.0\BreakpointsAndDebugging.dll
+D:\Coding\CS1200\CS1200\BreakpointsAndDebugging\bin\Debug\net8.0\BreakpointsAndDebugging.pdb
+D:\Coding\CS1200\CS1200\BreakpointsAndDebugging\obj\Debug\net8.0\BreakpointsAndDebugging.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\CS1200\CS1200\BreakpointsAndDebugging\obj\Debug\net8.0\BreakpointsAndDebugging.AssemblyInfoInputs.cache
+D:\Coding\CS1200\CS1200\BreakpointsAndDebugging\obj\Debug\net8.0\BreakpointsAndDebugging.AssemblyInfo.cs
+D:\Coding\CS1200\CS1200\BreakpointsAndDebugging\obj\Debug\net8.0\BreakpointsAndDebugging.csproj.CoreCompileInputs.cache
+D:\Coding\CS1200\CS1200\BreakpointsAndDebugging\obj\Debug\net8.0\BreakpointsAndDebugging.sourcelink.json
+D:\Coding\CS1200\CS1200\BreakpointsAndDebugging\obj\Debug\net8.0\BreakpointsAndDebugging.dll
+D:\Coding\CS1200\CS1200\BreakpointsAndDebugging\obj\Debug\net8.0\refint\BreakpointsAndDebugging.dll
+D:\Coding\CS1200\CS1200\BreakpointsAndDebugging\obj\Debug\net8.0\BreakpointsAndDebugging.pdb
+D:\Coding\CS1200\CS1200\BreakpointsAndDebugging\obj\Debug\net8.0\BreakpointsAndDebugging.genruntimeconfig.cache
+D:\Coding\CS1200\CS1200\BreakpointsAndDebugging\obj\Debug\net8.0\ref\BreakpointsAndDebugging.dll

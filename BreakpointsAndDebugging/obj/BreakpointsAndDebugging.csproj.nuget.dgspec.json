@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Coding\\CS1200\\CS1200\\Week1RandomType\\Week1RandomType.csproj": {}
+    "D:\\Coding\\CS1200\\CS1200\\BreakpointsAndDebugging\\BreakpointsAndDebugging.csproj": {}
   },
   "projects": {
-    "d:\\Coding\\CS1200\\CS1200\\Week1RandomType\\Week1RandomType.csproj": {
+    "D:\\Coding\\CS1200\\CS1200\\BreakpointsAndDebugging\\BreakpointsAndDebugging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Coding\\CS1200\\CS1200\\Week1RandomType\\Week1RandomType.csproj",
-        "projectName": "Week1RandomType",
-        "projectPath": "d:\\Coding\\CS1200\\CS1200\\Week1RandomType\\Week1RandomType.csproj",
+        "projectUniqueName": "D:\\Coding\\CS1200\\CS1200\\BreakpointsAndDebugging\\BreakpointsAndDebugging.csproj",
+        "projectName": "BreakpointsAndDebugging",
+        "projectPath": "D:\\Coding\\CS1200\\CS1200\\BreakpointsAndDebugging\\BreakpointsAndDebugging.csproj",
         "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
-        "outputPath": "d:\\Coding\\CS1200\\CS1200\\Week1RandomType\\obj\\",
+        "outputPath": "D:\\Coding\\CS1200\\CS1200\\BreakpointsAndDebugging\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jessi\\AppData\\Roaming\\NuGet\\NuGet.Config"
