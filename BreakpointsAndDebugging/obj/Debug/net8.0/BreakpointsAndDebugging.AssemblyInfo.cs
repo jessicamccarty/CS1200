@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BreakpointsAndDebugging")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddbe1110094e81b2fc4856c5497f9c22065c033e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fb3a76fecb0da651416cf3fbf5d22cf11f4f7df")]
 [assembly: System.Reflection.AssemblyProductAttribute("BreakpointsAndDebugging")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BreakpointsAndDebugging")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
