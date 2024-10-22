@@ -1,5 +1,4 @@
 ﻿// Class Notes 
-// Date: October 8, 2024
 
 // Console.WriteLine("Hello, World!");
 
@@ -46,19 +45,26 @@ string str2 = "than the sum of its chars.";
 str1 += str2; // The original str1 is now str1 with str2 concatenated.
 Console.WriteLine(s1);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 // Array of names
 string[] names = { "Alice", "Bob", "Charlie", "David", "Eve"}
+
+
+
+class Car {  // Name class to be called later. Can be in a separate file. Can be considered like a header file in C.  
+
+    string color = "red"; // Attributes
+    int speed = 200;
+
+    public void fullThrottle() { // Behavior expected of class 
+        if (speed == 200) {
+            Console.WriteLine("This car is going as fast as it can!");
+        }
+    }
+
+    static void Main(string[] args) { // Entry point of program. What actually runs. Can have multiple main functions but only 1 entry point.
+        Car myObj = new Car();
+        Console.WriteLine("myObj.color");
+    }
+
+}
 
