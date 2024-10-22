@@ -59,6 +59,7 @@ class Program
 
         // Randomly select an enemy
         Enemy enemy = enemies[random.Next(enemies.Length)];
+        Console.WriteLine("You are walking through the forest...");
         Console.WriteLine($"You have encountered a {enemy.Name}!");
 
         // Start battle
