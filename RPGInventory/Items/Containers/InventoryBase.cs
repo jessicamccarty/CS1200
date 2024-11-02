@@ -1,31 +1,27 @@
-using System.Collections.Generic;
+using RPGInventory.Items; // Include the necessary namespace for ItemBase
+using System.Collections.Generic; // Make sure to include this for List<T>
 
 namespace RPGInventory.Items.Containers
 {
-    // InventoryBase is an abstract class representing a container for items.
-    // It defines the common properties and methods that all inventory types will implement.
     public abstract class InventoryBase
     {
-        // The maximum number of items the inventory can hold
-        public int Capacity { get; private set; }
-        
-        // List to store the items in the inventory
-        protected List<ItemBase> Items;
+        protected int _capacity; // Maximum number of items in the inventory
+        protected List<ItemBase> _items; // List to hold items
 
-        // Constructor to initialize the inventory with a given capacity
+        // Constructor to initialize capacity and items list
         protected InventoryBase(int capacity)
         {
-            Capacity = capacity;
-            Items = new List<ItemBase>();
+            _capacity = capacity;
+            _items = new List<ItemBase>(); // Initialize the list
         }
 
         // Abstract method to add an item to the inventory
         public abstract AddResult AddItem(ItemBase item);
 
         // Abstract method to remove an item from the inventory
-        public abstract void RemoveItem(ItemBase item);
+        public abstract AddResult RemoveItem(ItemBase item);
 
-        // Abstract method to list the contents of the inventory
+        // Abstract method to list contents of the inventory
         public abstract void ListContents();
     }
 }

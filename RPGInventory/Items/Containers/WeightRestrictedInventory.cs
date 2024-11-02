@@ -1,51 +1,26 @@
-using RPGInventory.Items; // Ensure this namespace is included for ItemBase and AddResult
+using RPGInventory.Items; // Include the necessary namespace
 
 namespace RPGInventory.Items.Containers
 {
-    // WeightRestrictedInventory is an abstract class that inherits from InventoryBase.
-    // It restricts the total weight of items that can be added to the inventory.
-    public abstract class WeightRestrictedInventory : InventoryBase
+    public abstract class InventoryBase
     {
-        // Protected fields to store current and maximum weights
-        protected double _currentWeight;
-        protected double _maxWeight;
+        protected int _capacity; // Maximum number of items in the inventory
+        protected List<ItemBase> _items; // List to hold items
 
-        // Constructor that sets the capacity and maximum weight for the inventory
-        protected WeightRestrictedInventory(int capacity, double maxWeight) 
-            : base(capacity)
+        // Constructor to initialize capacity and items list
+        protected InventoryBase(int capacity)
         {
-            _maxWeight = maxWeight;
-            _currentWeight = 0; // Initialize current weight to 0
+            _capacity = capacity;
+            _items = new List<ItemBase>();
         }
 
-        // Override AddItem to enforce weight restrictions when adding an item
-        public override AddResult AddItem(ItemBase item)
-        {
-            // Check if adding the new item exceeds the maximum weight
-            if (_currentWeight + item.Weight > _maxWeight)
-            {
-                return AddResult.Overweight; // Return Overweight if adding exceeds the limit
-            }
+        // Abstract method to add an item to the inventory
+        public abstract AddResult AddItem(ItemBase item);
 
-            // Add the item to the inventory without calling the abstract base method
-            if (Items.Count >= Capacity)
-            {
-                return AddResult.ContainerFull; // Check for container full condition
-            }
+        // Abstract method to remove an item from the inventory
+        public abstract AddResult RemoveItem(ItemBase item);
 
-            Items.Add(item); // Add the item to the inventory
-            _currentWeight += item.Weight; // Update current weight
-            return AddResult.Success; // Indicate success
-        }
-
-        // Override RemoveItem to adjust current weight when removing an item
-        public override void RemoveItem(ItemBase item)
-        {
-            if (Items.Contains(item))
-            {
-                Items.Remove(item); // Remove the item from the inventory
-                _currentWeight -= item.Weight; // Decrease current weight
-            }
-        }
+        // Abstract method to list contents of the inventory
+        public abstract void ListContents();
     }
 }

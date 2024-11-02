@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Week1ParsingConsoleInput")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56fe69362ad6eb6925d47eb1cdac605b201d2cae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16cbb2bbefaccc5c70fd5a08b470fceb77cd8db4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Week1ParsingConsoleInput")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Week1ParsingConsoleInput")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

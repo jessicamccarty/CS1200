@@ -1,23 +1,24 @@
-using RPGInventory.Items; // Ensure this namespace is included for ItemBase and AddResult
+using RPGInventory.Items; // Include the necessary namespace for ItemBase
+using RPGInventory.Items.Containers; // Include the namespace for InventoryBase
+using RPGInventory.Items.Containers.Implementations; // Include for implementing ClothBag
 
 namespace RPGInventory.Items.Containers.Implementations
 {
-    // ClothBag inherits from WeightRestrictedInventory
     public class ClothBag : WeightRestrictedInventory
     {
-        public ClothBag() : base(5, 5.0) // Set capacity to 5 and max weight to 5.0 kg
+        // Constructor for ClothBag
+        public ClothBag() : base(5, 5) // Initialize with capacity of 5 items and a max weight of 5
         {
         }
 
-        // Implementation of ListContents method to list the contents of the ClothBag
+        // Override the ListContents method to display the contents of the bag
         public override void ListContents()
         {
             Console.WriteLine("Contents");
             Console.WriteLine("=================");
-
-            foreach (var item in Items)
+            foreach (var item in _items) // Access the _items list from the base class
             {
-                Console.WriteLine($"{item.ItemType,-10} | {item.Name,-20} | {item.Weight,5}kg | $ {item.Value,5}");
+                Console.WriteLine($"{item.ItemType}\t| {item.Name}\t| {item.Weight}kg\t| $ {item.Value}");
             }
         }
     }
