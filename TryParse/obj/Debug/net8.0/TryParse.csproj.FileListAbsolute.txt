@@ -1,0 +1,15 @@
+D:\Coding\CS1200\CS1200\TryParse\bin\Debug\net8.0\TryParse.exe
+D:\Coding\CS1200\CS1200\TryParse\bin\Debug\net8.0\TryParse.deps.json
+D:\Coding\CS1200\CS1200\TryParse\bin\Debug\net8.0\TryParse.runtimeconfig.json
+D:\Coding\CS1200\CS1200\TryParse\bin\Debug\net8.0\TryParse.dll
+D:\Coding\CS1200\CS1200\TryParse\bin\Debug\net8.0\TryParse.pdb
+D:\Coding\CS1200\CS1200\TryParse\obj\Debug\net8.0\TryParse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\CS1200\CS1200\TryParse\obj\Debug\net8.0\TryParse.AssemblyInfoInputs.cache
+D:\Coding\CS1200\CS1200\TryParse\obj\Debug\net8.0\TryParse.AssemblyInfo.cs
+D:\Coding\CS1200\CS1200\TryParse\obj\Debug\net8.0\TryParse.csproj.CoreCompileInputs.cache
+D:\Coding\CS1200\CS1200\TryParse\obj\Debug\net8.0\TryParse.sourcelink.json
+D:\Coding\CS1200\CS1200\TryParse\obj\Debug\net8.0\TryParse.dll
+D:\Coding\CS1200\CS1200\TryParse\obj\Debug\net8.0\refint\TryParse.dll
+D:\Coding\CS1200\CS1200\TryParse\obj\Debug\net8.0\TryParse.pdb
+D:\Coding\CS1200\CS1200\TryParse\obj\Debug\net8.0\TryParse.genruntimeconfig.cache
+D:\Coding\CS1200\CS1200\TryParse\obj\Debug\net8.0\ref\TryParse.dll

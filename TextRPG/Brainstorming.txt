@@ -1,0 +1,30 @@
+HERO CLASSES
+
+WARRIOR
+150 HP, 25 ATK, 15 DEF, Inventory: Sword, Shield, Health Potion x2
+Ability: Beserker Rage: Increases attack power by 50% for one turn but takes double damage from all sources during that turn. Can only be used once per encounter.
+
+MAGE
+80 HP, 40 ATK, 5 DEF, Inventory: Spellbook, Staff of Fire, Health Potion x2
+Ability: Elemental Blast: Powerful attack that deal striple damage but consumes a significant amount of mana. Can only be used once per encounter.
+
+ROGUE
+100 HP, 30 ATK, 10 DEF, Inventory: Dagger, Health Potion x2, Lockpick Kit, 
+Ability: Shadow Strike: Rogue deals double damage on first attack of each encounter. After using, Rogue gain a temporary boost in evasion for one turn. 
+
+ENEMIES:
+
+GOBLIN RAIDER
+60 HP, 15 ATK, 5 DEF
+Ability: Quick Strike: Deals damage quickly allowing Goblin tO attack twice in one turn but each attack does reduced damage (7 each). 
+
+SHADOW SORCERER
+100 HP, 20 ATK, 8 DEF
+Abilities: Dark Magic: Deals 25 damage and has a change to confuse the player, causing them to miss their next attack. Summon Minion: Call upon a shadow wisp (HP 30, ATK 5) to assist in battle.
+
+STONE GUARDIAN
+180 HP, 30 ATK, 20 DEF
+Abilities: Earthquake: Deals 40 damage to all characters with a chance to stun (skip a turn) to anyone effected. Shield Wall: Temporary increase defense by 10 for three turns.
+
+
+Add additional story line, using abilities, shop to purchase potions.

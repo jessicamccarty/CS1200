@@ -1,0 +1,15 @@
+D:\Coding\CS1200\CS1200\LockerRental\obj\Debug\net8.0\LockerRental.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\CS1200\CS1200\LockerRental\obj\Debug\net8.0\LockerRental.AssemblyInfoInputs.cache
+D:\Coding\CS1200\CS1200\LockerRental\obj\Debug\net8.0\LockerRental.AssemblyInfo.cs
+D:\Coding\CS1200\CS1200\LockerRental\obj\Debug\net8.0\LockerRental.csproj.CoreCompileInputs.cache
+D:\Coding\CS1200\CS1200\LockerRental\obj\Debug\net8.0\LockerRental.sourcelink.json
+D:\Coding\CS1200\CS1200\LockerRental\bin\Debug\net8.0\LockerRental.exe
+D:\Coding\CS1200\CS1200\LockerRental\bin\Debug\net8.0\LockerRental.deps.json
+D:\Coding\CS1200\CS1200\LockerRental\bin\Debug\net8.0\LockerRental.runtimeconfig.json
+D:\Coding\CS1200\CS1200\LockerRental\bin\Debug\net8.0\LockerRental.dll
+D:\Coding\CS1200\CS1200\LockerRental\bin\Debug\net8.0\LockerRental.pdb
+D:\Coding\CS1200\CS1200\LockerRental\obj\Debug\net8.0\LockerRental.dll
+D:\Coding\CS1200\CS1200\LockerRental\obj\Debug\net8.0\refint\LockerRental.dll
+D:\Coding\CS1200\CS1200\LockerRental\obj\Debug\net8.0\LockerRental.pdb
+D:\Coding\CS1200\CS1200\LockerRental\obj\Debug\net8.0\LockerRental.genruntimeconfig.cache
+D:\Coding\CS1200\CS1200\LockerRental\obj\Debug\net8.0\ref\LockerRental.dll

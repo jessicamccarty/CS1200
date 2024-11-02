@@ -1,0 +1,15 @@
+D:\Coding\CS1200\CS1200\Encounter\bin\Debug\net8.0\Encounter.exe
+D:\Coding\CS1200\CS1200\Encounter\bin\Debug\net8.0\Encounter.deps.json
+D:\Coding\CS1200\CS1200\Encounter\bin\Debug\net8.0\Encounter.runtimeconfig.json
+D:\Coding\CS1200\CS1200\Encounter\bin\Debug\net8.0\Encounter.dll
+D:\Coding\CS1200\CS1200\Encounter\bin\Debug\net8.0\Encounter.pdb
+D:\Coding\CS1200\CS1200\Encounter\obj\Debug\net8.0\Encounter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\CS1200\CS1200\Encounter\obj\Debug\net8.0\Encounter.AssemblyInfoInputs.cache
+D:\Coding\CS1200\CS1200\Encounter\obj\Debug\net8.0\Encounter.AssemblyInfo.cs
+D:\Coding\CS1200\CS1200\Encounter\obj\Debug\net8.0\Encounter.csproj.CoreCompileInputs.cache
+D:\Coding\CS1200\CS1200\Encounter\obj\Debug\net8.0\Encounter.sourcelink.json
+D:\Coding\CS1200\CS1200\Encounter\obj\Debug\net8.0\Encounter.dll
+D:\Coding\CS1200\CS1200\Encounter\obj\Debug\net8.0\refint\Encounter.dll
+D:\Coding\CS1200\CS1200\Encounter\obj\Debug\net8.0\Encounter.pdb
+D:\Coding\CS1200\CS1200\Encounter\obj\Debug\net8.0\Encounter.genruntimeconfig.cache
+D:\Coding\CS1200\CS1200\Encounter\obj\Debug\net8.0\ref\Encounter.dll

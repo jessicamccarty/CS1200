@@ -45,7 +45,7 @@ class AreaCalculator {
                 // Function to find area of a triangle and output
                 // 1/2 x Base x Height
                 double triArea = 0.5 * triBase * triHeight;
-                Console.Write($"The area of this triangle is {triArea:N2}.");
+                Console.Write($"The area of this triangle is {triArea:F2}.");
                 break;
             case 'C':
             case 'c':
@@ -56,7 +56,7 @@ class AreaCalculator {
                 // Function to find area of a circle and output
                 // pi x Radius Squared
                 double cirArea = Math.PI * cirRadius * cirRadius;
-                Console.Write($"The area of this circle is {cirArea:N2}.");
+                Console.Write($"The area of this circle is {cirArea:F2}.");
                 break;
             default:
                 Console.Write("Invalid shape type!");
