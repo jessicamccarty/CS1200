@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TemperatureChecker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e853e7b9918d1d68242285ecd73b46eaff2292bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b74272128f6b034b3c22bb54d0fec43bbbb4b9c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TemperatureChecker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TemperatureChecker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

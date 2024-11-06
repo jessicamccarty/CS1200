@@ -1,0 +1,5 @@
+D:\Coding\CS1200\CS1200\RPGInventory\obj\Debug\net8.0\RPGInventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\CS1200\CS1200\RPGInventory\obj\Debug\net8.0\RPGInventory.AssemblyInfoInputs.cache
+D:\Coding\CS1200\CS1200\RPGInventory\obj\Debug\net8.0\RPGInventory.AssemblyInfo.cs
+D:\Coding\CS1200\CS1200\RPGInventory\obj\Debug\net8.0\RPGInventory.csproj.CoreCompileInputs.cache
+D:\Coding\CS1200\CS1200\RPGInventory\obj\Debug\net8.0\RPGInventory.sourcelink.json
