@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockerRental", "LockerRenta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGInventory", "RPGInventory\RPGInventory.csproj", "{10B5D677-349D-4187-B529-6662D05053BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessingGame", "GuessingGame\GuessingGame.csproj", "{A16D7124-0F29-4FBF-AF1B-17A83A8C152B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -138,5 +140,9 @@ Global
 		{10B5D677-349D-4187-B529-6662D05053BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10B5D677-349D-4187-B529-6662D05053BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10B5D677-349D-4187-B529-6662D05053BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A16D7124-0F29-4FBF-AF1B-17A83A8C152B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A16D7124-0F29-4FBF-AF1B-17A83A8C152B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A16D7124-0F29-4FBF-AF1B-17A83A8C152B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A16D7124-0F29-4FBF-AF1B-17A83A8C152B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
